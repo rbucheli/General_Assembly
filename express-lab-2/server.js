@@ -10,3 +10,4 @@ app.get('/greeting/:Rodrigo', (req, res) => {
 app.listen(3000);
 
 // Are we supposed to decalre port as a variable? If so, why?
+
